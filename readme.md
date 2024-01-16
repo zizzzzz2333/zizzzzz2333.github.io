@@ -1,1 +1,1 @@
-## here is a game based on javascript and webgl
+## Here is a game based on javascript and webgl
